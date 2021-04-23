@@ -19,7 +19,7 @@ Dashboard to manage the workflow of a Pharmacy Store.
 Run the following commands in terminal to run on your local machine.
 
 ```bash 
-git clone https://github.com/AnujSharma141/PharmacyDashboard.git
+git remote add origin https://github.com/Prakhar75/Pharmacy-Dashboard.git
 cd PharmacyDashboard
 npm install
 npm start
